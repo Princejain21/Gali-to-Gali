@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Gali-to-Gali/static/css/main.4e3b5d9f.css",
+    "main.js": "/Gali-to-Gali/static/js/main.02625a19.js",
+    "static/js/787.6e425caa.chunk.js": "/Gali-to-Gali/static/js/787.6e425caa.chunk.js",
+    "static/media/bg.jpg": "/Gali-to-Gali/static/media/bg.b6da4249e919bbc95cc9.jpg",
+    "index.html": "/Gali-to-Gali/index.html",
+    "main.4e3b5d9f.css.map": "/Gali-to-Gali/static/css/main.4e3b5d9f.css.map",
+    "main.02625a19.js.map": "/Gali-to-Gali/static/js/main.02625a19.js.map",
+    "787.6e425caa.chunk.js.map": "/Gali-to-Gali/static/js/787.6e425caa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e3b5d9f.css",
+    "static/js/main.02625a19.js"
+  ]
+}
