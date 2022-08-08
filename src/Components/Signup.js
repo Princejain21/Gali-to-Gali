@@ -16,7 +16,7 @@ export default function Signup() {
         if (val === val1 && email !== '') {
             setshow(true)
             document.getElementById('passmsg').setAttribute('class', 'd-none')
-            setTimeout(() => { setshow(false) }, 2000)
+            setTimeout(() => { setshow(false) }, 4000)
 
         } else if (email === "" || email === null || email === undefined) {
             alert('please fill valid credentials')
